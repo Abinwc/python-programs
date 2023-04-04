@@ -1,0 +1,24 @@
+Basic:
+1. Write a program that prints "Hello, World!" to the console.
+2. Write a program that takes two integers as input and prints their sum.
+3. Write a program that takes a string as input and prints its length.
+4. Write a program that takes a list of integers as input and prints the largest integer in the list.
+5. Write a program that takes a list of integers as input and returns a new list with only the even integers from the original list.
+6. Write a program that takes a string as input and checks if it is a palindrome (a word, phrase, or sequence that reads the same backward as forward).
+7. Write a program that takes a list of integers as input and returns a new list with the squares of each integer in the original list.
+8. Write a program that takes a list of integers as input and returns a new list with the integers sorted in descending order.
+9. Write a program that takes two strings as input and concatenates them (joins them together) into a new string.
+10. Write a program that takes a list of integers as input and returns the sum of all the even integers in the list.
+
+
+Intermediate:
+11. Write a program that takes a string as input and removes all vowels from the string.
+12. Write a program that takes a list of strings as input and returns a new list with only the strings that have a length greater than 5.
+13. Write a program that takes a list of integers as input and returns the second-largest integer in the list.
+14. Write a program that takes a list of strings as input and returns a new list with the strings sorted in alphabetical order.
+15. Write a program that takes a list of integers as input and returns a new list with only the prime integers from the original list.
+16. Write a program that takes a string as input and returns a new string with each word reversed.
+17. Write a program that takes a list of integers as input and returns the product of all the integers in the list.
+18. Write a program that takes a list of integers as input and returns a new list with the integers in reverse order.
+19. Write a program that takes a list of strings as input and returns a new list with only the strings that contain the letter 'a'.
+20. Write a program that takes a list of integers as input and returns a new list with only the integers that are multiples of 3.

@@ -1,0 +1,13 @@
+# Write a program that takes a string as input and removes all vowels from the string.
+
+# def remove_vowels(my_str):
+#     vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
+#     for index, char in enumerate(my_str):
+#         if vowels.index(char):
+#             my_str.rstrip(char)
+
+#     return my_str
+
+
+# vowel_removed_str = remove_vowels("AbinPaulLincOn")
+# print(vowel_removed_str)
